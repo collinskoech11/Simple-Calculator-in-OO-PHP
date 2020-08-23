@@ -7,6 +7,7 @@ include 'calculator.php';
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
 	<title>Calculator In PHP</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-grid.min.css">
